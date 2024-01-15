@@ -1,10 +1,5 @@
 ## Hi there! 😁
 
-<div>
-  <a href="https://github.com/pedrocamponez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocamponez&layout=compact&langs_count=6&theme=dracula"/>
-</div>
- 
  <br>
  
   ### Social:
